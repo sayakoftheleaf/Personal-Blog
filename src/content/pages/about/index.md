@@ -3,6 +3,11 @@ title: About
 categories: ['main']
 ---
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+Hello stranger. This is my blog, me being Sayak (Sha-yok NOT sa-yak) or Rick,
+however you know me. I am a software developer, student, vlogger, wannable
+artist/writer/filmmaker. Yeah, that's a lot of things, I know, and I am a
+n00b at almost all of them (Even at being a student, somehow). But I try, and
+this blog is an extension of that. Feel free to have a look around, I try and
+deliver things that I think might be useful to some people.
 
-Praesent accumsan odio in ante ullamcorper id pellentesque mauris rhoncus. Duis vitae neque dolor. Duis sed purus at eros bibendum cursus nec a nulla. Donec turpis quam, ultricies id pretium sit amet, gravida eget leo.
+If you want to get in touch with me, I am just an email away - theotherrick@pm.me
