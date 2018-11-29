@@ -15,7 +15,7 @@ const config = {
 
   /* site header */
   headerTitle: `${base.name}`,
-  headerSubTitle: 'another blog floating in the internet',
+  headerSubTitle: 'Reinventing the wheel because why not',
 
   /* url */
   siteUrl: base.url,
